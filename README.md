@@ -1,4 +1,9 @@
 # CryptoChecker
+![](Screenshot%202023-04-13%20001258.png)
+![](Screenshot%202023-04-12%20234043.png)
+![](Screenshot%202023-04-12%20234058.png)
+![](Screenshot%202023-04-12%20234131.png)
+![](Screenshot%202023-04-12%20234218.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
