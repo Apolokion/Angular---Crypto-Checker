@@ -3,7 +3,6 @@
 ![](Photo_From_App/Screenshot%202023-04-12%20234043.png)
 ![](Photo_From_App/Screenshot%202023-04-12%20234058.png)
 ![](Photo_From_App/Screenshot%202023-04-12%20234131.png)
-![](Photo_From_App/Screenshot%202023-04-12%20234218.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
